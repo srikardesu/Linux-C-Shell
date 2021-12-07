@@ -1,0 +1,20 @@
+gedit
+jobs
+fg 1
+gedit
+jobs
+fg 1
+jobs
+quit
+ls
+ls |
+quit
+nano file.txt
+ls
+quit
+gedit &; firefox &; vi &
+jobs
+gedit &
+jobs
+firefox &
+jobs
